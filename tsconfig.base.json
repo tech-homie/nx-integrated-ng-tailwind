@@ -17,7 +17,8 @@
     "paths": {
       "@tech-homie-nx/admin/ngrxjs": ["libs/admin/ngrxjs/src/index.ts"],
       "@tech-homie-nx/executive/ngrxjs": ["libs/executive/ngrxjs/src/index.ts"],
-      "@tech-homie-nx/marketing/ngrxjs": ["libs/marketing/ngrxjs/src/index.ts"]
+      "@tech-homie-nx/marketing/ngrxjs": ["libs/marketing/ngrxjs/src/index.ts"],
+      "@tech-homie-nx/shared/ngrxjs": ["libs/shared/ngrxjs/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
